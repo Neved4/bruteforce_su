@@ -1,0 +1,24 @@
+{
+	"files.associations": {
+		".clang-format": "yaml",
+		".env": "shellscript",
+		".tmux.conf": "shellscript",
+		"*.adb": "ada",
+		"*.conf": "ini",
+		"*.fish": "fish",
+		"*.gls": "latex",
+		"*.kitty": "ssh_config",
+		"*.ldf": "latex",
+		"*.prf": "ini",
+		"*.sexp": "racket",
+		"*.sty": "latex",
+		"*.vmoptions": "ssh_config",
+		"*.xmp": "xml",
+		"config": "ini",
+		"env": "shellscript",
+		"kitty.conf": "ssh_config",
+		".clang-tidy": "yaml",
+		"string.h": "c",
+		"stdlib.h": "c"
+	}
+}
